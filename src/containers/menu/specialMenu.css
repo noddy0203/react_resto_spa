@@ -1,0 +1,17 @@
+.app_specialMenu {
+    flex-direction: column;
+    background-color: var(--color-black);
+}
+
+.app_specialMenu-title {
+    margin-bottom: 2rem;
+    text-align: center;
+}
+.app_specialMenu-menu{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 2rem 0;
+    width: 100%;
+    flex-direction: row;
+}

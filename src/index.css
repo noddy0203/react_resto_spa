@@ -12,6 +12,9 @@
     --color-white: #FFFFFF;
 }
 
+/* err = new Error()
+increment(err) === { type: 'INCREMENT', payload: err, error: true } */
+
 * {
     box-sizing: border-box;
     padding: 0;
