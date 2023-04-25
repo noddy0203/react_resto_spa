@@ -41,10 +41,6 @@
   justify-content: flex-start;
   margin-right: 2rem;
 }
-.app_wrapper_img-reverse{
-  justify-content: flex-start;
-  margin-right: 2rem;
-}
 
 .app_wrapper_img img{
   width: 80%;
